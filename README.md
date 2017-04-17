@@ -8,3 +8,6 @@
 Create web-project: `zst-web [project name]`  
 Develop: `zst dev`  
 Publish: `zst dist`  
+
+## zst
+[zst前端自动化构建工具](https://github.com/ZhangShuangV/zst)
