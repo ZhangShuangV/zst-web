@@ -1,0 +1,35 @@
+{
+  "name": "zst-web",
+  "version": "0.0.7",
+  "description": "zst,fe,tool",
+  "main": "zst.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "fe",
+    "tool",
+    "npm"
+  ],
+  "author": "shuang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "commander": "^2.9.0",
+    "express": "^4.15.2",
+    "open": "0.0.5",
+    "socket.io": "^1.7.3",
+    "uglifycss": "0.0.25",
+    "uglifyjs": "^2.4.10",
+    "watch": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhangShuangV/zst"
+  },
+  "homepage": "https://www.zhangshuang.top",
+  "bin": {
+    "zst": "./zst.config.js"
+  }
+}

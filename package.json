@@ -1,0 +1,29 @@
+{
+  "name": "zst-web",
+  "version": "0.0.7",
+  "description": "zst,fe,tool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "fe",
+    "tool",
+    "npm"
+  ],
+  "author": "shuang",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "bluebird": "^3.5.0",
+    "fs-extra": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhangShuangV/zst"
+  },
+  "homepage": "https://www.zhangshuang.top",
+  "bin": {
+    "zst-web": "./bin/zst.js"
+  }
+}
