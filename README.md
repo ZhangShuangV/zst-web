@@ -1,8 +1,8 @@
 # zst-web
-前端构建工具
+前端项目构建工具
 
 ## Installation
-`npm install zst-web -g`
+`npm install zst-web zst -g`
 
 ## API
-`zst-web [project name]`
+Create web-project `zst-web [project name]`

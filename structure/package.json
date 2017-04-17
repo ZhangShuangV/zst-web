@@ -1,6 +1,6 @@
 {
-  "name": "zst-web",
-  "version": "0.0.7",
+  "name": "zst",
+  "version": "0.0.8",
   "description": "zst,fe,tool",
   "main": "zst.config.js",
   "scripts": {
