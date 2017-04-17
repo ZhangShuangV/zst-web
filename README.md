@@ -5,4 +5,6 @@
 `npm install zst-web zst -g`
 
 ## API
-Create web-project `zst-web [project name]`
+Create web-project: `zst-web [project name]`  
+Develop: `zst dev`  
+Publish: `zst dist`  
